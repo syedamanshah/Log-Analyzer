@@ -2,3 +2,5 @@ The program analyzes a log file containing cybersecurity events and detects susp
 certain IP addresses that exceed a threshold of login failures. The code also identifies repeated instances of access denial for IP 
 addresses and blocks them accordingly. It provides real-time feedback by printing the detected activities, blocked IP addresses, 
 and the time taken to block them.
+
+I have provided a sample log data file which can be used in order to check the working of this Log Analyzer.
