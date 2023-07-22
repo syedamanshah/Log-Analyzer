@@ -1,6 +1,6 @@
 import time
 
-log_file = 'D:\Cybersecurity\Internships\LearnSmasher Projects\Log_Analyzer\log_data.txt'  # Replace with your log file name
+log_file = 'Log_Analyzer\log_data.txt'  # Replace with your log file name along with its path
 
 ip_event_counts = {}
 ip_login_failure_count = {}
